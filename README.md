@@ -1,10 +1,10 @@
-# ZAYNAB Consensus Grading (ZCG)
+# Zed Consensus Grading (ZCG)
 
 A decentralized peer-review and reputation protocol built on Solana.
 
 ## Overview
 
-ZAYNAB provides a trustless framework for academic and scholarly assessment. It leverages the speed and security of Solana to record assignments, peer reviews, and reputation scores in an immutable and transparent manner.
+Zed provides a trustless framework for academic and scholarly assessment. It leverages the speed and security of Solana to record assignments, peer reviews, and reputation scores in an immutable and transparent manner.
 
 ## Key Features
 
